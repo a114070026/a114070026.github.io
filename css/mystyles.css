@@ -1,0 +1,61 @@
+.alexcenter{
+    text-align: center;
+    color: rgb(132, 191, 243); 
+}
+
+.abouttt{
+    border: 1px;
+    border-radius: 15px;
+    border-color:black;
+    padding: 20px 40px;
+    background-color: black;
+    margin: 0 auto;
+    height: 90px;
+    overflow:auto;
+}
+
+.alex{
+    text-align: center;
+}
+
+.zt{
+    text-align: center;
+}
+
+.qwq{
+    text-align: center;
+}
+
+a.alexlink{
+    color: rgb(132, 191, 243); 
+    padding: 0px 25px 0px;
+    border-radius:35%;
+}
+
+a.alexlink:hover{
+    background-color: rgba(132, 191, 243, 0.566); 
+    color:white; 
+}
+
+.alexbig{
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.alexgo{
+    font-size: 50px;
+    text-align:center;
+}
+
+section#about{
+    background-color: rgb(132, 191, 243);
+    background-image: url("../assets/img/bgfox.jpg"); 
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+section#contact{
+    background-color: rgb(132, 191, 243);
+}
