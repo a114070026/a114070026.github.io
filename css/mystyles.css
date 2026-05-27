@@ -57,7 +57,11 @@ section#about{
 }
 
 section#contact{
-    background-color: rgb(132, 191, 243);
+    background-color: rgb(168 214 255);
+}
+
+.social-icons{
+    text-align: center;
 }
 
 
