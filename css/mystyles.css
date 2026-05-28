@@ -64,4 +64,11 @@ section#contact{
     text-align: center;
 }
 
-
+section#work{
+    background-color: rgb(132, 191, 243);
+    background-image: url("../assets/img/zzz.jpg"); 
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
