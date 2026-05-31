@@ -10,8 +10,7 @@
     padding: 20px 40px;
     background-color: rgba(39, 97, 245, 0.433); 
     margin: 0 auto;
-    height: 90px;
-    overflow:auto;
+    font-family: "Noto Serif TC", serif;
 }
 
 .alex{
