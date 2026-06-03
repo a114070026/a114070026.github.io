@@ -65,7 +65,7 @@ section#contact{
 
 section#work{
     background-color: rgb(132, 191, 243);
-    background-image: url("../assets/img/zzz.jpg"); 
+    background-image: url("../assets/img/sleeping-.jpg"); 
     background-repeat: no-repeat ;
     background-position: center;
     background-attachment: fixed;
@@ -75,4 +75,12 @@ section#work{
 .alexpic{
     width: 100%;
     border-radius: 10px;
+}
+
+section#copyright{
+    background-image: url("../assets/img/sf.jpg"); 
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }

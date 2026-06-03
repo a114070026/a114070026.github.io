@@ -251,7 +251,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: var(--bs-link-hover-color);
+  color: rgb(67, 139, 255);
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
