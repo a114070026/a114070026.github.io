@@ -71,3 +71,8 @@ section#work{
     background-attachment: fixed;
     background-size: cover;
 }
+
+.alexpic{
+    width: 100%;
+    border-radius: 10px;
+}
